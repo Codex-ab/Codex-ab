@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 😎, I'm My Name Is Abdullah CH</h1>
 <h3 align="center">A passionate frontend developer and Desinger from Pakistan</h3>
-<img  align="right" width= "400"   src="https://storage.googleapis.com/pai-images/6a4c5f45178b4312ab34eaace2439373.jpeg">
+<img  align="right" width= "400"   src="https://avatars.githubusercontent.com/u/117245359?v=4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-ab&label=Profile%20views&color=0e75b6&style=flat" alt="codex-ab" /> </p>
 
