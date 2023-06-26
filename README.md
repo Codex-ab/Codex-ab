@@ -1,6 +1,6 @@
 ![](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 
-<h1 align="center">Hi 😎, I'm My Name Is Abdullah CH</h1>
+<h1 align="center">Hi 😎, I'm Abdullah CH</h1>
 <h3 align="center">A passionate frontend developer and Desinger</h3>
 <img  align="right" width= "400"   src="https://avatars.githubusercontent.com/u/117245359?v=4">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently working on **Travel website**
 
 - 🌱 I’m currently learning **Ecommerce Website**
 
