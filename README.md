@@ -1,4 +1,4 @@
-![](https://i.ibb.co/MhG1M3x/Programming.gif)
+![](https://raw.githubusercontent.com/Codex-ab/mymages/main/images/Programming.gif?token=GHSAT0AAAAAACECTJ657LF6AWVBJYVM7L5IZE5AE3Q)
 
 <h1 align="center">Hi 😎, I'm Abdullah CH</h1>
 <h3 align="center">A passionate Frontend Developer and Desinger</h3>
