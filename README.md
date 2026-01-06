@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Hospital Managment Website**
 
-- 💬 Ask me about **React Vue Angular**
+- 💬 Ask me about **React, Tailwindcss**
 
 - 📫 How to reach me **m.abdullah31000@gmail.com**
 
