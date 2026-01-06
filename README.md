@@ -14,8 +14,6 @@
 
 - 🤝 I’m looking for help with **Hospital Managment Website**
 
-- 👨‍💻 This is my Portfolio [https://abdullah-portfolio-e8313.firebaseapp.com/](https://abdullah-portfolio-e8313.firebaseapp.com/)
-
 - 💬 Ask me about **React Vue Angular**
 
 - 📫 How to reach me **m.abdullah31000@gmail.com**
