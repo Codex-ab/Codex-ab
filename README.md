@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎, I'm Abdullah CH</h1>
-<h3 align="center">Full-Stack Web Developer • MERN Stack Specialist</h3>
+<h3 align="center">Full-Stack Engineer • MERN Stack Specialist</h3>
 <h4 align="center">Building fast, scalable, and beautiful web experiences — with a passion for learning something new every day.</h4>
 
 <img align="right" width="380" src="https://avatars.githubusercontent.com/u/117245359?v=4" alt="Abdullah CH" />
@@ -21,7 +21,7 @@
 - 👯 &nbsp;I’m open to **collaborating on real-world web apps** — e-commerce, dashboards & SaaS
 - 💬 &nbsp;Ask me about **React, Next.js, Node.js, MongoDB & TailwindCSS**
 - ⚡ &nbsp;Fun fact: I love turning complex product requirements into clean, maintainable code
-- 📫 &nbsp;How to reach me: **m.abdullah31000@gmail.com**
+- 📫 &nbsp;How to reach me: **abdullahdev0092@gmail.com**
 
 ---
 
